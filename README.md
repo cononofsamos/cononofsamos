@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... making the world a better place!!
 - 🌱 I’m currently learning ... Symfony 6!!
 - 👯 I’m looking to collaborate on ... PHP Backend and APIs.
